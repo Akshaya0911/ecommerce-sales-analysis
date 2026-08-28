@@ -46,4 +46,4 @@ Dataset source: Brazilian E-Commerce Public Dataset by Olist on Kaggle.
 - `python/01_ecommerce_analysis.ipynb` - Python analysis and visualizations
 - `sql/analysis_queries.sql` - SQL queries used for analysis and validation
 - `output/` - Output files generated during the analysis
-- `data/` - Dataset files used in the project
+- Dataset - Olist public dataset from Kaggle. Raw dataset files are kept locally and are not included in this repository.
