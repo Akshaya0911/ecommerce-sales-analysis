@@ -15,6 +15,7 @@ The analysis was done using Python and SQL. I also performed basic data quality 
 ## Dataset
 
 I used the Brazilian E-Commerce Public Dataset by Olist. The dataset contains information about orders, customers, products, sellers, payments, reviews, and delivery dates.
+
 Dataset source: Brazilian E-Commerce Public Dataset by Olist on Kaggle.
 
 ## What I Analyzed
