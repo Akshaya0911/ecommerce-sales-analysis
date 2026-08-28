@@ -206,7 +206,7 @@ SELECT
     SUM(CASE WHEN product_id IS NULL THEN 1 ELSE 0 END) AS missing_product_id,
     SUM(CASE WHEN seller_id IS NULL THEN 1 ELSE 0 END) AS missing_seller_id,
     SUM(CASE WHEN price IS NULL THEN 1 ELSE 0 END) AS missing_price
-FROM order_items;done
+FROM order_items;
 
 -- 10. Relationship Integrity Checks
 
